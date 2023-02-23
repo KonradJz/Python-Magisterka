@@ -15,3 +15,4 @@ if __name__ == '__main__':
     print(orGate(10, 2))
     print(xorGate(10, 2))
     print(notGate(1))
+
